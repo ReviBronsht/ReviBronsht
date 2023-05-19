@@ -16,7 +16,7 @@ Databases: MongoDB, Neo4J, MySQL
 Web Development: Node.js, Express, Flask, React, Angular, Javascript, Typescript, PHP, HTML, CSS
 Programming Languages: Python, C#, Javascript
 Various: UX/UI, Selenium, WordPress, Informatics, and human information behavior
-Cloud: AWS
 Cloudera - data platform: Hive, Impala, Hadoop
+AWS Cloud
 
 -->
