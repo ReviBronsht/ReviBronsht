@@ -6,7 +6,7 @@
 - 👨‍💻 My public projects are avaliable at https://github.com/ReviBronsht 
 - 📫 How to reach me: revibronsht@gmail.com or https://www.upwork.com/freelancers/~01be804b592fcf5554
 - 😄 Pronouns: she/her
-- ⚡ Hire me at: [...](https://www.upwork.com/freelancers/~01be804b592fcf5554)
+- ⚡ Hire me at: https://www.upwork.com/freelancers/~01be804b592fcf5554
 
 Connect with me on: https://www.linkedin.com/in/revital-bronshtein-bb4970214/
 
