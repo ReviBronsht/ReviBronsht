@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Revital Bronshtein
 
-<!--
-**ReviBronsht/ReviBronsht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently looking for my next challenge in the Machine Learning or Fullstack world
 - 🌱 I’m currently studying for my Master's degree in Data Science with a thesis in Machine Learning & Deep Learning
 - 👯 I’m looking to collaborate on Open Source Projects
