@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for my next challenge in the Machine Learning or Fullstack world
 - 🌱 I’m currently studying for my Master's degree in Data Science with a thesis in Machine Learning & Deep Learning
 - 👯 I’m looking to collaborate on Open Source Projects
-- 👨‍💻 My public projects are avaliable at https://github.com/ReviBronsht 
+- 👨‍💻 My public projects are avaliable at https://github.com/ReviBronsht or see my portfolio: https://revital-bronshtein-portfolio.vercel.app/
 - 📫 How to reach me: revibronsht@gmail.com or https://www.upwork.com/freelancers/~01be804b592fcf5554
 - 😄 Pronouns: she/her
 - ⚡ Hire me at: https://www.upwork.com/freelancers/~01be804b592fcf5554
